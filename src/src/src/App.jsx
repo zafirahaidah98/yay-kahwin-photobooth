@@ -3,7 +3,7 @@ import { Camera, Image, Mic, Heart, Send, Download, Sparkles, RefreshCw, X, Chec
 import confetti from 'canvas-confetti';
 
 // ⚠️ MASUKKAN URL GOOGLE APPS SCRIPT ANDA DI SINI
-const APPS_SCRIPT_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbx.../exec";
+const APPS_SCRIPT_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzndYU9UZSPvFym_5MdkCceXYJ9UH166mL6qUwTTAzQ7ucFCpvyVf8bm5I_Cx_Jg3uR/exec";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('home');
